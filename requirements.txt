@@ -1,0 +1,8 @@
+pandas==2.0.3
+numpy
+scikit-learn==1.3.0
+deap
+pulp
+matplotlib
+plotly
+cylp
