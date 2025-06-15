@@ -27,6 +27,13 @@ Used synthetic dataset simulating:
   - Manager/non-manager vehicles
 ![Optimization Results](user_behavior.png)
 
+ ## Results
+  | Metric          | Baseline | Optimized  | 
+  |-----------------|----------|------------|
+  | Peak Load (kW)  | 2764.7   | **1025.2** |
+  | Daily Cost ($)  | 4405.94  | **3640.4** |
+  | Load Factor Improvement  | 0.354  | **0.956** |
+  
 ## Why Our Results Are Valuable
 
 1. **Peak Load Reduction**: Up to 30-40% reduction in maximum grid demand
